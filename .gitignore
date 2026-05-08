@@ -5,3 +5,11 @@ build/
 .cache/
 compile_commands.json
 test-data/
+
+# Ignore output folders
+out/
+output/
+build/
+
+# Ignore CSV files
+*.csv
